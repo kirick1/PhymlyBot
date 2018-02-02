@@ -1,0 +1,4 @@
+/.idea/
+/yarn.lock
+/.env
+/node_modules/
