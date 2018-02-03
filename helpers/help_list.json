@@ -1,0 +1,50 @@
+[
+  {
+    "command": "/now",
+    "meaning": "Дізнатись який зараз урок"
+  },
+  {
+    "command": "/next",
+    "meaning": "Дізнатись який наступний урок"
+  },
+  {
+    "command": "/today",
+    "meaning": "Дізнатись розклад на сьогодні"
+  },
+  {
+    "command": "/tomorrow",
+    "meaning": "Дізнатись розклад на завтра"
+  },
+  {
+    "command": "/all",
+    "meaning": "Показати весь розклад"
+  },
+  {
+    "command": "/time",
+    "meaning": "Показати розклад дзвінків"
+  },
+  {
+    "command": "/week",
+    "meaning": "Дізнатись якого кольору зараз тиждень"
+  },
+  {
+    "command": "/where",
+    "meaning": "Дізнатись де буде наступний урок"
+  },
+  {
+    "command": "/who",
+    "meaning": "Дізнатись хто викладатиме наступний урок"
+  },
+  {
+    "command": "/hymn",
+    "meaning": "Гімн ліцею"
+  },
+  {
+    "command": "/teachers",
+    "meaning": "Вчителі ліцею"
+  },
+  {
+    "command": "/history",
+    "meaning": "Історія ліцею"
+  }
+]
