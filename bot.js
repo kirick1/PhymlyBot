@@ -4,11 +4,10 @@ require('./config/database');
 const User = require('./models/User');
 const Telegraf = require('telegraf');
 const Markup = require('telegraf/markup');
+const extensions = require('./helpers/extensions');
 
 const bot = new Telegraf(process.env.TELEGRAM_API_TOKEN);
 //bot.use(Telegraf.log());
-
-const { getHelpList } = require('./helpers/extensions');
 
 try {
     bot.start((ctx) => {
@@ -32,8 +31,19 @@ try {
                 else return ctx.reply('Твій курс вже задано, натисни /help щоб побачити доступні команди');
             }).catch((err) => { throw new Error(err); })
     });
-
-    bot.command('help', (ctx) => ctx.reply(getHelpList()));
+    bot.command('now', (ctx) => ctx.reply('Не готово'));
+    bot.command('next', (ctx) => ctx.reply('Не готово'));
+    bot.command('today', (ctx) => ctx.reply('Не готово'));
+    bot.command('tomorrow', (ctx) => ctx.reply('Не готово'));
+    bot.command('all', (ctx) => ctx.reply('Не готово'));
+    bot.command('time', (ctx) => ctx.reply('Не готово'));
+    bot.command('week', (ctx) => ctx.reply('Не готово'));
+    bot.command('where', (ctx) => ctx.reply('Не готово'));
+    bot.command('who', (ctx) => ctx.reply('Не готово'));
+    bot.command('hymn', (ctx) => ctx.reply(extensions.getHymn()));
+    bot.command('teachers', (ctx) => ctx.reply('Не готово'));
+    bot.command('history', (ctx) => ctx.reply('Не готово'));
+    bot.command('help', (ctx) => ctx.reply(extensions.getHelpList()));
     bot.catch((err) => { throw new Error(err); });
 } catch(error) { console.error('ERROR', error); }
 
