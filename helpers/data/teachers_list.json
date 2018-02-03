@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Іван",
+    "surname": "Плющай",
+    "patronymic": "Іванович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9F%D0%BB%D1%8E%D1%89%D0%B0%D0%B9%20%D0%86%D0%86_2013.jpg?size=11",
+    "about": "Незмінний директор ФІМЛІ з самого його заснування в 1993 році",
+    "subject": "Фізика, астрономія",
+    "rewards": "Заслужений учитель України, Відмінник освіти України",
+    "callback_data_name": "plushchai"
+  },
+  {
+    "name": "Інна",
+    "surname": "Баранова",
+    "patronymic": "Станіславівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%86%D0%A1_2013.jpg?size=11",
+    "about": "Заступник директора з навчально-виховної роботи, учитель-методист",
+    "subject": "Хімія",
+    "rewards": "Відмінник освіти України",
+    "callback_data_name": "baranova"
+  },
+  {
+    "name": "Наталія",
+    "surname": "Бобкова",
+    "patronymic": "Олександрівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%91%D0%BE%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%9D%D0%9E_2013.jpg?size=11",
+    "about": "Заступник директора з навчально-методичної роботи, учитель-методист",
+    "subject": "Інформатика",
+    "rewards": "",
+    "callback_data_name": "bobkova"
+  },
+  {
+    "name": "Олена",
+    "surname": "Киченко",
+    "patronymic": "Іванівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9A%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%D0%9E%D0%86_2013.jpg?size=11",
+    "about": "Заступник директора з виховної роботи, педагог-організатор-методист",
+    "subject": "",
+    "rewards": "",
+    "callback_data_name": "kychenko"
+  },
+  {
+    "name": "Овсій",
+    "surname": "Черепінський",
+    "patronymic": "Давидович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%9E%D0%94_2010_.jpg?size=11",
+    "about": "",
+    "subject": "Математика",
+    "rewards": "Заслужений вчитель України",
+    "callback_data_name": "cherepinsky"
+  },
+  {
+    "name": "Оксана",
+    "surname": "Корнієнко",
+    "patronymic": "Вікторівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9A%D0%BE%D1%80%D0%BD%D1%96%D1%94%D0%BD%D0%BA%D0%BE%20%D0%9E%D0%92_2012.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Математика",
+    "rewards": "",
+    "callback_data_name": "kornienko"
+  },
+  {
+    "name": "Марина",
+    "surname": "Темченко",
+    "patronymic": "Валентинівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A2%D0%B5%D0%BC%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9C%D0%92_2012.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Математика",
+    "rewards": "",
+    "callback_data_name": "temchenko"
+  },
+  {
+    "name": "Роман",
+    "surname": "Барвінок",
+    "patronymic": "Леонідович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%91%D0%B0%D1%80%D0%B2%D1%96%D0%BD%D0%BE%D0%BA%20%D0%A0%D0%9B_2012.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Математика",
+    "rewards": "",
+    "callback_data_name": "barvinok"
+  },
+  {
+    "name": "Наталія",
+    "surname": "Годуліна",
+    "patronymic": "Сергіївна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%93%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%9D%20%D0%A1.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Математика",
+    "rewards": "",
+    "callback_data_name": "godulina"
+  },
+  {
+    "name": "Оксана",
+    "surname": "Бабенко",
+    "patronymic": "Анатоліївна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%91%D0%B0%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9E.%D0%90..jpg?size=11",
+    "about": "Старший учитель",
+    "subject": "Математика",
+    "rewards": "",
+    "callback_data_name": "babenko"
+  },
+  {
+    "name": "Іван",
+    "surname": "Сізьон",
+    "patronymic": "Петрович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A1%D1%96%D0%B7%D1%8C%D0%BE%D0%BD%20%D0%86%D0%9F_2012.jpg?size=11",
+    "about": "Старший учитель",
+    "subject": "Інформатика",
+    "rewards": "",
+    "callback_data_name": "sizyon"
+  },
+  {
+    "name": "Микола",
+    "surname": "Горбатовський",
+    "patronymic": "Іванович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%9C%D0%86_2012.jpg?size=11",
+    "about": "",
+    "subject": "Фізика",
+    "rewards": "Заслужений вчитель України",
+    "callback_data_name": "gorbatovsky"
+  },
+  {
+    "name": "Олександр",
+    "surname": "Молодик",
+    "patronymic": "Іванович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BA%20%D0%9E%D0%86_2010_.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Фізика",
+    "rewards": "",
+    "callback_data_name": "molodyk"
+  },
+  {
+    "name": "Володимир",
+    "surname": "Ридван",
+    "patronymic": "Васильович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A0%D0%B8%D0%B4%D0%B2%D0%B0%D0%BD%20%D0%92%D0%92_2012.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Фізика",
+    "rewards": "",
+    "callback_data_name": "rydvan"
+  },
+  {
+    "name": "Ярослав",
+    "surname": "Сальваровський",
+    "patronymic": "Романович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%AF%D0%A0-2007.jpg?size=11",
+    "about": "",
+    "subject": "Географія, економіка",
+    "rewards": "Заслужений вчитель України",
+    "callback_data_name": "salvarovsky"
+  },
+  {
+    "name": "Тетяна",
+    "surname": "Компанієць",
+    "patronymic": "Павлівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%94%D1%86%D1%8C%20%D0%A2%D0%9F_2013.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Біологія, хімія",
+    "rewards": "",
+    "callback_data_name": "kompaniets"
+  },
+  {
+    "name": "Юлія",
+    "surname": "Булава",
+    "patronymic": "Миколаївна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0%20%D0%AE%D0%9C_2012.jpg?size=11",
+    "about": "Учитель I категорії",
+    "subject": "ОБЖД, малювання(у 0-го курсу)",
+    "rewards": "",
+    "callback_data_name": "bulava"
+  },
+  {
+    "name": "Віра",
+    "surname": "Горпінич",
+    "patronymic": "Григоівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%93%D0%BE%D1%80%D0%BF%D1%96%D0%BD%D1%96%D1%87%D0%92%D0%93_2013.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Українська мова та література",
+    "rewards": "",
+    "callback_data_name": "gorpinich"
+  },
+  {
+    "name": "Світлана",
+    "surname": "Ткаченко",
+    "patronymic": "Миколаївна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A2%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%A1%D0%9C_2013.jpg?size=11",
+    "about": "Старший учитель",
+    "subject": "Українська мова та література",
+    "rewards": "",
+    "callback_data_name": "tkachenko"
+  },
+  {
+    "name": "Любов",
+    "surname": "Малигіна",
+    "patronymic": "Миколаївна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%9C%D0%B0%D0%BB%D0%B8%D0%B3%D1%96%D0%BD%D0%B0%20%D0%9B%D0%9C_2013.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Світова література, художня культура",
+    "rewards": "",
+    "callback_data_name": "malygina"
+  },
+  {
+    "name": "Лідія",
+    "surname": "Гвоздь",
+    "patronymic": "Григорівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D1%8C_%D0%9B%D0%93-2007.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Всесвітня історія, історія України, правознавство",
+    "rewards": "",
+    "callback_data_name": "gvozd"
+  },
+  {
+    "name": "Василь",
+    "surname": "Івангородський",
+    "patronymic": "Павлович",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%86%D0%B2%D0%B0%D0%BD%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%92%D0%9F_2012.jpg?size=11",
+    "about": "Учитель I категорії",
+    "subject": "Всесвітня історія, історія України, правознавство",
+    "rewards": "",
+    "callback_data_name": "ivangorodsky"
+  },
+  {
+    "name": "Людмила",
+    "surname": "Хандогій",
+    "patronymic": "Дмитрівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%A5%D0%B0%D0%BD%D0%B4%D0%BE%D0%B3i%D0%B9_%D0%9B%D0%94.jpg?size=11",
+    "about": "",
+    "subject": "Англійська мова",
+    "rewards": "Заслужений вчитель України",
+    "callback_data_name": "handogy"
+  },
+  {
+    "name": "Олена",
+    "surname": "Василевська",
+    "patronymic": "Семенівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%9E%D0%A1_2012.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Англійська-мова",
+    "rewards": "",
+    "callback_data_name": "vasylevska"
+  },
+  {
+    "name": "Тетяна",
+    "surname": "Дмитренко",
+    "patronymic": "Володимирівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/%D0%94%D0%9C%D0%98%D0%A2%D0%A0%D0%95%D0%9D%D0%9A%D0%9E.jpg?size=11",
+    "about": "Учитель-методист",
+    "subject": "Англійська мова",
+    "rewards": "",
+    "callback_data_name": "dmytrenko"
+  },
+  {
+    "name": "Анна",
+    "surname": "Лемешко",
+    "patronymic": "Володимирівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/grDeidoi80o.jpg?size=11",
+    "about": "Практичний психолог, соціальний педагог",
+    "subject": "",
+    "rewards": "",
+    "callback_data_name": "lemeshko"
+  },
+  {
+    "name": "Вікторія",
+    "surname": "Верещінська",
+    "patronymic": "Вікторівна",
+    "photo": "http://phymly.ck.sch.in.ua/files2/images/pedagogchniy_kolektiv_fml/SDC12128.jpg?size=11",
+    "about": "Бібліотекар ліцею",
+    "subject": "",
+    "rewards": "",
+    "callback_data_name": "vereshchinska"
+  },
+  {
+    "name": "Віктор",
+    "surname": "Луц",
+    "patronymic": "Степанович",
+    "photo": "http://s019.radikal.ru/i634/1708/31/2d34c3ee4a97.jpg",
+    "about": "",
+    "subject": "Фізична культура, захист Вітчизни",
+    "rewards": "",
+    "callback_data_name": "lutz"
+  }
+]

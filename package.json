@@ -1,6 +1,6 @@
 {
   "name": "PhymlyBot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bot for students",
   "main": "bot.js",
   "repository": "https://github.com/kirick1/phymlybot.git",
