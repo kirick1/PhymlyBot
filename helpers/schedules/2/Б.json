@@ -235,115 +235,115 @@
     "monday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Геометрія/Інформатика",
+        "teacher": "",
+        "classroom": "30/25"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Інформатика/Геометрія",
+        "teacher": "",
+        "classroom": "25/30"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Алгебра/Фізика",
+        "teacher": "",
+        "classroom": "23/31"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика/Алгебра",
+        "teacher": "",
+        "classroom": "31/23"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Світова література",
+        "teacher": "Малигіна Л.М.",
         "classroom": "14"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізична культура",
+        "teacher": "",
+        "classroom": ""
       }
     ],
     "tuesday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Геометрія/Англійська мова",
+        "teacher": "",
+        "classroom": "30/33"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Англійська мова/Геометрія",
+        "teacher": "",
+        "classroom": "33/30"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Світова література",
+        "teacher": "Малигіна Л.М.",
+        "classroom": "16"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика",
+        "teacher": "",
+        "classroom": "31"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Історія",
+        "teacher": "",
+        "classroom": "12"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Історія",
+        "teacher": "",
+        "classroom": "12"
       }
     ],
     "wednesday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Хімія",
+        "teacher": "",
+        "classroom": "36"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Хімія",
+        "teacher": "",
+        "classroom": "36"
       },
       {
         "number": 3,
         "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "teacher": "",
+        "classroom": "23"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Історія",
+        "teacher": "",
+        "classroom": "12"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика",
+        "teacher": "",
+        "classroom": "31"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Світова література",
+        "teacher": "Малигіна Л.М.",
+        "classroom": "16"
       }
     ],
     "thursday": [

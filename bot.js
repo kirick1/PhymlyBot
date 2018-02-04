@@ -10,7 +10,7 @@ const schedule = require('./helpers/schedule');
 const books = require('./helpers/books');
 
 const bot = new Telegraf(process.env.TELEGRAM_API_TOKEN);
-//bot.use(Telegraf.log());
+bot.use(Telegraf.log());
 
 try {
     bot.start((ctx,next) => {

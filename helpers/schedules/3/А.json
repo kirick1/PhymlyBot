@@ -5,228 +5,222 @@
       {
         "number": 1,
         "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика/Англійська мова",
+        "teacher": "Корнієнко О.В./Василевська О.С.",
+        "classroom": "35/15"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Англійська мова/Математика",
+        "teacher": "Василевська О.С./Корнієнко О.В.",
+        "classroom": "15/35"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Фізична культура",
+        "teacher": "",
+        "classroom": ""
       },
       {
         "number": 6,
         "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       }
     ],
     "tuesday": [
       {
         "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Хімія",
+        "teacher": "Баранова І.С.",
+        "classroom": "36"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Хімія",
+        "teacher": "Баранова І.С.",
+        "classroom": "36"
       },
       {
         "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Інформатика/Англійська мова",
+        "teacher": "Сізьон І.П./Василевська О.С.",
+        "classroom": "24/15"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Англійська мова/Інформатика",
+        "teacher": "Василевська О.С./Сізьон І.П.",
+        "classroom": "15/24"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 6,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       }
     ],
     "wednesday": [
       {
         "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       },
       {
         "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Географія",
+        "teacher": "Сальваровський Я.Р.",
+        "classroom": "16"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Світова література",
+        "teacher": "Малигіна Л.М.",
+        "classroom": "26"
       },
       {
         "number": 6,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Світова література",
+        "teacher": "Малигіна Л.М.",
+        "classroom": "26"
       }
     ],
     "thursday": [
       {
         "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Історія",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Географія",
+        "teacher": "Сальваровський Я.Р.",
+        "classroom": "16"
       },
       {
         "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Географія",
+        "teacher": "Сальваровський Я.Р.",
+        "classroom": "16"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 6,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       }
     ],
     "friday": [
       {
         "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Історія",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
+        "title": "Хімія",
+        "teacher": "Баранова І.С.",
         "classroom": "15"
       },
       {
         "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Інформатика/Англійська мова",
+        "teacher": "Сізьон І.П./Василевська О.С.",
+        "classroom": "24/15"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Англійська мова/Інформатика",
+        "teacher": "Василевська О.С./Сізьон І.П.",
+        "classroom": "15/24"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Фізична культура",
+        "teacher": "",
+        "classroom": ""
       },
       {
         "number": 6,
         "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       }
     ],
     "saturday": [
       {
         "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Історія",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       },
       {
         "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Історія",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       },
       {
         "number": 3,
-        "title": "Фізика",
+        "title": "Художня культура",
         "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "classroom": "25"
       },
       {
         "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 6,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       }
     ]
   },
@@ -235,229 +229,235 @@
     "monday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика",
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика",
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика/Англійська мова",
+        "teacher": "Корнієнко О.В./Василевська О.С.",
+        "classroom": "35/15"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Англійська мова/Математика",
+        "teacher": "Василевська О.С./Корнієнко О.В.",
+        "classroom": "15/35"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Біологія",
+        "teacher": "Компанієць Т.П.",
+        "classroom": "36"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Біологія",
+        "teacher": "Компанієць Т.П.",
+        "classroom": "36"
       }
     ],
     "tuesday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Інформатика/Англійська мова",
+        "teacher": "Сізьон І.П./Василевська О.С.",
+        "classroom": "24/15"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Англійська мова/Інформатика",
+        "teacher": "Василевська О.С./Сізьон І.П.",
+        "classroom": "15/24"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Українська мова",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       }
     ],
     "wednesday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Українська мова",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Українська література",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізична культура",
+        "teacher": "",
+        "classroom": ""
       }
     ],
     "thursday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Українська література",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Українська література",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика/Фізика",
+        "teacher": "Корнієнко О.В./Ридван В.В.",
+        "classroom": "35/32"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика/Математика",
+        "teacher": "Ридван В.В./Корнієнко О.В.",
+        "classroom": "32/35"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Захист Вітчизни",
+        "teacher": "Луц В.С./Булава Ю.М.",
+        "classroom": "12/23"
       }
     ],
     "friday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Фізика",
+        "teacher": "Ридван В.В.",
+        "classroom": "32"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Біологія",
+        "teacher": "Компанієць Т.П.",
+        "classroom": "36"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Інформатика/Англійська мова",
+        "teacher": "Сізьон І.П./Василевська О.С.",
+        "classroom": "24/15"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Технології",
+        "teacher": "Молодик О.І.",
+        "classroom": "32"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Англійська мова/Інформатика",
+        "teacher": "Василевська О.С./Сізьон І.П.",
+        "classroom": "15/24"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
+        "title": "Фізична культура",
+        "teacher": "",
+        "classroom": ""
+      },
+      {
+        "number": 7,
+        "title": "Українська література",
+        "teacher": "Ткаченко С.М.",
         "classroom": "14"
       }
     ],
     "saturday": [
       {
         "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Захист Вітчизни",
+        "teacher": "Луц В.С./Булава Ю.М.",
+        "classroom": "12/23"
       },
       {
         "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Захист Вітчизни",
+        "teacher": "Луц В.С./Булава Ю.М.",
+        "classroom": "12/23"
       },
       {
         "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Математика",
+        "teacher": "Корнієнко О.В.",
+        "classroom": "35"
       },
       {
         "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Правознавство",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       },
       {
         "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
+        "title": "Правознавство",
+        "teacher": "Івангородський В.П.",
+        "classroom": "13"
       }
     ]
   }

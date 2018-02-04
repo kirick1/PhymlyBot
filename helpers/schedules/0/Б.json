@@ -190,44 +190,6 @@
         "teacher": "Горбатовський М.І.",
         "classroom": "15"
       }
-    ],
-    "saturday": [
-      {
-        "number": 1,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 2,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 3,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 4,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 5,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      },
-      {
-        "number": 6,
-        "title": "Фізика",
-        "teacher": "Горбатовський М.І.",
-        "classroom": "15"
-      }
     ]
   },
   {
@@ -385,44 +347,6 @@
       }
     ],
     "friday": [
-      {
-        "number": 1,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      },
-      {
-        "number": 2,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      },
-      {
-        "number": 3,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      },
-      {
-        "number": 4,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      },
-      {
-        "number": 5,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      },
-      {
-        "number": 6,
-        "title": "Алгебра",
-        "teacher": "Барвінок Р.Л.",
-        "classroom": "14"
-      }
-    ],
-    "saturday": [
       {
         "number": 1,
         "title": "Алгебра",
