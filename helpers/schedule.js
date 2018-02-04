@@ -43,19 +43,57 @@ function normalizeWeekString(week) {
     if(week.saturday) week_string += 'Субота:\n' + normalizeLessonsPerDay(week.saturday);
     return week_string;
 }
+function isLeapYear(year) {
+    return ((year - 2016)%4 === 0);
+}
+function getMonthDaysNumber(month) {
+    switch (month) {
+        case 0: return 31;
+        case 1:
+            if(isLeapYear(new Date().getFullYear())) return 29;
+            else return 28;
+        case 2: return 31;
+        case 3: return 30;
+        case 4: return 31;
+        case 5: return 30;
+        case 6: return 31;
+        case 7: return 31;
+        case 8: return 30;
+        case 9: return 31;
+        case 10: return 30;
+        case 11: return 31;
+    }
+}
+function calculateWeeksDifference(start_month,start_day) {
+    const date = new Date();
+    const current_month = date.getMonth();
+    const current_day = date.getDate();
+    let difference = 0;
+    if(start_month !== current_month) {
+        difference = getMonthDaysNumber(start_month) - start_day;
+        for(let month = start_month + 1; month < current_month; month++) difference += getMonthDaysNumber(month);
+    }
+    difference += current_day;
+    return Math.floor(difference/7);
+}
+function getNowWeekColor() {
+    const weeks_difference = calculateWeeksDifference(0,15);
+    if(weeks_difference % 2 === 0) return 'blue';
+    else return 'red';
+}
 
 module.exports = {
     getAllSchedule: (group) => {
-        const schedule_file_name = getFileNameByGroup(group);
-        const schedule_file_context = getFileContext(schedule_file_name);
-        const parsed_schedule_file_context = JSON.parse(schedule_file_context);
-        const blue_week = parsed_schedule_file_context[0];
-        const blue_week_string = normalizeWeekString(blue_week);
-        const red_week = parsed_schedule_file_context[1];
-        const red_week_string = normalizeWeekString(red_week);
+        const schedule = JSON.parse(getFileContext(getFileNameByGroup(group)));
+        const blue_week = normalizeWeekString(schedule[0]);
+        const red_week = normalizeWeekString(schedule[1]);
         return {
-            blue: blue_week_string,
-            red: red_week_string
+            blue: blue_week,
+            red: red_week
         }
+    },
+    getNowWeek: () => {
+        if(getNowWeekColor() === 'blue') return 'Синій тиждень';
+        else return 'Червоний тиждень';
     }
 };

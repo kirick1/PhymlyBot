@@ -61,7 +61,7 @@ try {
         return next();
     });
     bot.command('week', (ctx,next) => {
-        ctx.reply('Не готово');
+        ctx.reply(schedule.getNowWeek());
         return next();
     });
     bot.command('where', (ctx,next) => {
