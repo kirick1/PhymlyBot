@@ -1,0 +1,337 @@
+[
+  {
+    "course": 0,
+    "books": [
+      {
+        "title": "Алгебра",
+        "file_id": "BQADAgADAgEAAhvZuEv4h86rBDQ2rQI",
+        "file_size": "20637141"
+      },
+      {
+        "title": "Біологія",
+        "file_id": "BQADAgADBwEAAhvZuEttkYu41Zcg_QI",
+        "file_size": "82638967"
+      },
+      {
+        "title": "Всесвітня історія",
+        "file_id": "BQADAgADCAEAAhvZuEvba3tDoYg2oQI",
+        "file_size": "31502401"
+      },
+      {
+        "title": "Географія",
+        "file_id": "BQADAgADCQEAAhvZuEvHB3A-1TwUQgI",
+        "file_size": "62342608"
+      },
+      {
+        "title": "Геометрія",
+        "file_id": "BQADAgADCgEAAhvZuEtuEn4t72ywWwI",
+        "file_size": "43141538"
+      },
+      {
+        "title": "Історія України",
+        "file_id": "BQADAgADCwEAAhvZuEtBnNFVCn8x4AI",
+        "file_size": "23297951"
+      },
+      {
+        "title": "ОБЖД",
+        "file_id": "BQADAgADDAEAAhvZuEsE10uNj42FrAI",
+        "file_size": "15907852"
+      },
+      {
+        "title": "Світова література",
+        "file_id": "BQADAgADDQEAAhvZuEsRNWeXdCRkbgI",
+        "file_size": "16093002"
+      },
+      {
+        "title": "Українська література",
+        "file_id": "BQADAgADDgEAAhvZuEsYa0oUvMmCbwI",
+        "file_size": "39401582"
+      },
+      {
+        "title": "Українська мова",
+        "file_id": "BQADAgADDwEAAhvZuEvNDnDEYsoGIgI",
+        "file_size": "49579358"
+      },
+      {
+        "title": "Фізика",
+        "file_id": "BQADAgADEAEAAhvZuEsqJZdI0WPgDwI",
+        "file_size": "7746638"
+      },
+      {
+        "title": "Хімія",
+        "file_id": "BQADAgADEQEAAhvZuEvuu8tqmKAEWQI",
+        "file_size": "25575891"
+      }
+    ]
+  },
+  {
+    "course": 1,
+    "books": [
+      {
+        "title": "Алгебра",
+        "file_id": "BQADAgADFAEAAhvZuEuB7yjHuK7_gwI",
+        "file_size": "96576439"
+      },
+      {
+        "title": "Всесвітня історія",
+        "file_id": "BQADAgADFQEAAhvZuEtasdh6q7_WPgI",
+        "file_size": "64189169"
+      },
+      {
+        "title": "Географія",
+        "file_id": "BQADAgADFgEAAhvZuEtBfDY9v93TIgI",
+        "file_size": "20095503"
+      },
+      {
+        "title": "Геометрія",
+        "file_id": "BQADAgADFwEAAhvZuEvV2juI9wPpNwI",
+        "file_size": "26900217"
+      },
+      {
+        "title": "Історія України",
+        "file_id": "BQADAgADGAEAAhvZuEuxSCBz9ndMWwI",
+        "file_size": "54628037"
+      },
+      {
+        "title": "ОБЖД",
+        "file_id": "BQADAgADGQEAAhvZuEsdFib5DSj5FAI",
+        "file_size": "23780635"
+      },
+      {
+        "title": "Світова література",
+        "file_id": "BQADAgADGgEAAhvZuEsOLDuCDg6Y_AI",
+        "file_size": "62254841"
+      },
+      {
+        "title": "Українська література",
+        "file_id": "BQADAgADGwEAAhvZuEth3FJky1tZGgI",
+        "file_size": "96605811"
+      },
+      {
+        "title": "Українська мова",
+        "file_id": "BQADAgADHAEAAhvZuEsKeqiLIQ02CAI",
+        "file_size": "72697962"
+      },
+      {
+        "title": "Фізика",
+        "file_id": "BQADAgADHQEAAhvZuEu0ft655C2N4wI",
+        "file_size": "73705387"
+      }
+    ]
+  },
+  {
+    "course": 2,
+    "books": [
+      {
+        "title": "Алгебра",
+        "file_id": "BQADAgADHwEAAhvZuEuGDnyaypGxtwI",
+        "file_size": "9529364"
+      },
+      {
+        "title": "Біологія",
+        "file_id": "BQADAgADIAEAAhvZuEtS_1FaHIx0jAI",
+        "file_size": "14229377"
+      },
+      {
+        "title": "Всесвітня історія",
+        "file_id": "BQADAgADIQEAAhvZuEsAASqYX5elSGYC",
+        "file_size": "5334168"
+      },
+      {
+        "title": "Географія",
+        "file_id": "BQADAgADIgEAAhvZuEtmVC9VpO6G3QI",
+        "file_size": "65053152"
+      },
+      {
+        "title": "Геометрія",
+        "file_id": "BQADAgADIwEAAhvZuEsmwIi6xBoOSQI",
+        "file_size": "1518514"
+      },
+      {
+        "title": "Історія України",
+        "file_id": "BQADAgADJAEAAhvZuEsHToZBWCa7ogI",
+        "file_size": "3686610"
+      },
+      {
+        "title": "ОБЖД",
+        "file_id": "BQADAgADJQEAAhvZuEtbzH5pkUTbGgI",
+        "file_size": "14828110"
+      },
+      {
+        "title": "Правознавство",
+        "file_id": "BQADAgADJgEAAhvZuEt0lNP7qYD4LQI",
+        "file_size": "49297479"
+      },
+      {
+        "title": "Світова література",
+        "file_id": "BQADAgADJwEAAhvZuEueONO4SmR8WQI",
+        "file_size": "66574232"
+      },
+      {
+        "title": "Українська література",
+        "file_id": "BQADAgADKAEAAhvZuEu-koHcguGXLAI",
+        "file_size": "68370988"
+      },
+      {
+        "title": "Українська мова",
+        "file_id": "BQADAgADKQEAAhvZuEufgAfmoGl1GAI",
+        "file_size": "20368879"
+      },
+      {
+        "title": "Фізика",
+        "file_id": "BQADAgADKgEAAhvZuEvOiTQXUYggzgI",
+        "file_size": "41746593"
+      },
+      {
+        "title": "Хімія",
+        "file_id": "BQADAgADKwEAAhvZuEs7Gp-dkLMcIAI",
+        "file_size": "54708651"
+      },
+      {
+        "title": "Художня культура",
+        "file_id": "BQADAgADLAEAAhvZuEvoYkxxHEi3JQI",
+        "file_size": "16215739"
+      }
+    ]
+  },
+  {
+    "course": 3,
+    "books": [
+      {
+        "title": "Алгебра",
+        "file_id": "BQADAgADLQEAAhvZuEtsjgtyHx_LegI",
+        "file_size": "82758728"
+      },
+      {
+        "title": "Всесвітня історія",
+        "file_id": "BQADAgADLgEAAhvZuEtUpLV1Q3X1gQI",
+        "file_size": "48389193"
+      },
+      {
+        "title": "Географія",
+        "file_id": "BQADAgADLwEAAhvZuEsuala9GmjZ9QI",
+        "file_size": "94987775"
+      },
+      {
+        "title": "Геометрія",
+        "file_id": "BQADAgADMAEAAhvZuEtRZbDtnraHhwI",
+        "file_size": "87267437"
+      },
+      {
+        "title": "Екологія",
+        "file_id": "BQADAgADMQEAAhvZuEvDXSaD48QJsgI",
+        "file_size": "14270559"
+      },
+      {
+        "title": "Економіка",
+        "file_id": "BQADAgADMgEAAhvZuEu6f1jIq_nDHAI",
+        "file_size": "48915452"
+      },
+      {
+        "title": "Світова література",
+        "file_id": "BQADAgADNgEAAhvZuEvyOGgfiYdlBQI",
+        "file_size": "60195043"
+      },
+      {
+        "title": "Українська література",
+        "file_id": "BQADAgADNwEAAhvZuEsGCtfkV98KPgI",
+        "file_size": "41485408"
+      },
+      {
+        "title": "Українська мова",
+        "file_id": "BQADAgADOAEAAhvZuEuB9kGtKf-sRgI",
+        "file_size": "79477955"
+      },
+      {
+        "title": "Фізика",
+        "file_id": "BQADAgADOQEAAhvZuEtGXifVzMfxlAI",
+        "file_size": "41361777"
+      },
+      {
+        "title": "Хімія",
+        "file_id": "BQADAgADOgEAAhvZuEsIBbuvTQE4HgI",
+        "file_size": "56354085"
+      },
+      {
+        "title": "Захист вітчизни",
+        "file_id": "BQADAgADMwEAAhvZuEt5zpyCBwHyDAI",
+        "file_size": "8644855"
+      },
+      {
+        "title": "Історія України",
+        "file_id": "BQADAgADNAEAAhvZuEsqKZJ_oHAXPwI",
+        "file_size": "26213788"
+      },
+      {
+        "title": "Правознавство",
+        "file_id": "BQADAgADNQEAAhvZuEupC8JwCS1EVwI",
+        "file_size": "55967630"
+      },
+      {
+        "title": "Художня культура",
+        "file_id": "BQADAgADOwEAAhvZuEsLPIZxJk5jsQI",
+        "file_size": "33507150"
+      }
+    ]
+  },
+  {
+    "course": 4,
+    "books": [
+      {
+        "title": "Екологія",
+        "file_id": "BQADAgADPwEAAhvZuEugfMIhV4_suAI",
+        "file_size": "17433672"
+      },
+      {
+        "title": "Біологія",
+        "file_id": "BQADAgADPAEAAhvZuEvepNRPwd-uowI",
+        "file_size": "43582315"
+      },
+      {
+        "title": "Всесвітня історія",
+        "file_id": "BQADAgADPQEAAhvZuEtKT_IMxSq92QI",
+        "file_size": "54558166"
+      },
+      {
+        "title": "Геометрія",
+        "file_id": "BQADAgADPgEAAhvZuEuqkwsrYgABPb8C",
+        "file_size": "73777754"
+      },
+      {
+        "title": "Людина і світ",
+        "file_id": "BQADAgADRAEAAhvZuEtKSz1l8sGA1QI",
+        "file_size": "35563792"
+      },
+      {
+        "title": "Історія України",
+        "file_id": "BQADAgADQwEAAhvZuEsQ-BYPwFsaoQI",
+        "file_size": "53363221"
+      },
+      {
+        "title": "Економіка",
+        "file_id": "BQADAgADQAEAAhvZuEuUOTjY7VrfawI",
+        "file_size": "42064909"
+      },
+      {
+        "title": "Захист Вітчизни",
+        "file_id": "BQADAgADQQEAAhvZuEuoT8Ozw-mI0AI",
+        "file_size": "40515588"
+      },
+      {
+        "title": "Українська література",
+        "file_id": "BQADAgADRQEAAhvZuEupNUs_saU6dQI",
+        "file_size": "81043701"
+      },
+      {
+        "title": "Українська мова",
+        "file_id": "BQADAgADRgEAAhvZuEsLazpOpm0W4AI",
+        "file_size": "59320855"
+      },
+      {
+        "title": "Хімія",
+        "file_id": "BQADAgADSAEAAhvZuEvkKJHBHGxVzAI",
+        "file_size": "31661566"
+      }
+    ]
+  }
+]

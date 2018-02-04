@@ -1,5 +1,7 @@
 const Markup = require('telegraf/markup');
+
 const { getTeachersList } = require('./handlers');
+const { getBooksListByGroup } = require('./books');
 
 module.exports = {
     getChooseGroupButtons: () => Markup.inlineKeyboard([
@@ -14,5 +16,12 @@ module.exports = {
         let teachers_buttons_list = [];
         for(let i = 0; i < teachers_list_length; i++) teachers_buttons_list.push(Markup.callbackButton(teachers_list[i].surname,teachers_list[i].callback_data_name));
         return Markup.inlineKeyboard(teachers_buttons_list,{columns:3}).extra();
+    },
+    getChooseBooksButtons: (group) => {
+        const books_list = getBooksListByGroup(group);
+        const books_list_length = books_list.length;
+        let books_buttons_list = [];
+        for(let i = 0; i < books_list_length; i++) books_buttons_list.push(Markup.callbackButton(books_list[i].title, books_list[i].file_size));
+        return Markup.inlineKeyboard(books_buttons_list,{columns:1}).extra();
     }
 };

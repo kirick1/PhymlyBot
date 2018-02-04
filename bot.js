@@ -4,9 +4,10 @@ require('./config/database');
 const User = require('./models/User');
 const Telegraf = require('telegraf');
 
-const handlers = require('./helpers/handlers');
 const buttons = require('./helpers/buttons');
+const handlers = require('./helpers/handlers');
 const schedule = require('./helpers/schedule');
+const books = require('./helpers/books');
 
 const bot = new Telegraf(process.env.TELEGRAM_API_TOKEN);
 //bot.use(Telegraf.log());
@@ -73,6 +74,28 @@ try {
         ctx.reply('Не готово');
         return next();
     });
+    bot.command('books', (ctx,next) => {
+        User.findOne({id: ctx.message.from.id})
+            .then((user) => {
+                if(!user) ctx.reply('Необхідно задати твій курс:',buttons.getChooseGroupButtons());
+                else ctx.reply('Обери необхідний підручник серед перечислених нижче, щоб завантажити його',buttons.getChooseBooksButtons(user.group));
+                return next();
+            }).catch((err) => { throw new Error(err); });
+    });
+    bot.action(/^[0-9]{7,8}$/, (ctx,next) => {
+        User.findOne({id: ctx.callbackQuery.from.id})
+            .then((user) => {
+                if(!user) ctx.reply('Необхідно задати твій курс:',buttons.getChooseGroupButtons());
+                else {
+                    const book = books.getBookFromListByCallbackDataFileSize(user.group, ctx.callbackQuery.data);
+                    if(!book) ctx.reply('Помилка, щось не так');
+                    else ctx.telegram.sendDocument(ctx.callbackQuery.from.id,book.file_id);
+                    return next();
+                }
+                return next();
+            }).catch((err) => { throw new Error(err); });
+
+    });
     bot.command('hymn', (ctx,next) => {
         ctx.reply(handlers.getHymn());
         return next();
@@ -82,9 +105,7 @@ try {
         return next();
     });
     bot.action(/^[a-zA-Z]{4,15}$/, (ctx,next) => {
-        console.log('----');
         const teacher = handlers.getTeacherFromListByCallbackDataName(ctx.callbackQuery.data);
-        console.log(teacher);
         if(!teacher) ctx.reply('Помилка, щось не так');
         else ctx.replyWithPhoto(teacher.photo,{caption:handlers.getSelectedTeacherCaptionInfo(teacher)});
         return next();
