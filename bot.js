@@ -3,12 +3,13 @@ require('./config/database');
 
 const User = require('./models/User');
 const Telegraf = require('telegraf');
+
 const handlers = require('./helpers/handlers');
 const buttons = require('./helpers/buttons');
 const schedule = require('./helpers/schedule');
 
 const bot = new Telegraf(process.env.TELEGRAM_API_TOKEN);
-bot.use(Telegraf.log());
+//bot.use(Telegraf.log());
 
 try {
     bot.start((ctx,next) => {
